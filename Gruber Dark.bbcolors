@@ -1,0 +1,45 @@
+// Dark gray background rev. 2
+// John Gruber
+// 4 Jan 2007
+//
+// Copy to: ~/Library/Application Support/BBColors/
+
+"Color:Background"                              = "rgb(10306,10306,10306)";
+"Color:CTagsIdentifier"                         = "rgb(39321,0,26214)";
+"Color:ColorAttributesSeparately"               =  1;
+"Color:Comment"                                 = "rgb(52428,35980,15420)";
+"Color:Foreground"                              = "rgb(62628,62628,65535)";
+"Color:GuideContrast"                           =  2;
+"Color:HTMLAnchor"                              = "rgb(24047,38845,62708)";
+"Color:HTMLAttributeName"                       = "rgb(38317,43433,40863)";
+"Color:HTMLAttributeValue"                      = "rgb(29555,52428,13878)";
+"Color:HTMLImage"                               = "rgb(34181,36494,62708)";
+"Color:HTMLTag"                                 = "rgb(34181,36494,62708)";
+"Color:HighlightInsertionPoint"                 =  0;
+"Color:InsertionPointLineHighlightColor"        = "rgb(10023,10023,10023)";
+"Color:Keywords"                                = "rgb(38550,42662,51400)";
+"Color:PrimaryHighlight"                        = "rgb(24497,25118,32530)";
+"Color:SecondaryHighlight"                      = "rgb(18593,18788,20780)";
+"Color:String"                                  = "rgb(29555,51530,13878)";
+"Color:UseCustomHighlight"                      =  1;
+"Color:XMLProcessingInstruction"                = "rgb(65535,56815,13107)";
+
+"Color:Background:Grep Search Pattern"          = "rgb(62915,62915,62915)";
+"Color:Foreground:Grep Search Pattern"          = "rgb(0,0,0)";
+"Color:UseCustomHighlight:Grep Search Pattern"  =  0;
+"Color:Keywords:Grep Search Pattern"            = "rgb(0,0,60000)";
+
+"Color:Background:Grep Replace Pattern"         = "rgb(62915,62915,62915)";
+"Color:Foreground:Grep Replace Pattern"         = "rgb(0,0,0)";
+"Color:UseCustomHighlight:Grep Replace Pattern" =  0;
+"Color:Keywords:Grep Replace Pattern"           = "rgb(0,0,60000)";
+
+"Color:Comment:Markdown"                        =  "rgb(43036,43036,43036)";
+"Color:String:Markdown"                         =  "rgb(38812,39292,47068)";
+"Color:Keywords:Markdown"                       =  "rgb(29427,34863,39650)";
+"Color:HTMLAnchor:Markdown"                     =  "rgb(47000,47000,47000)";
+"Color:HTMLImage:Markdown"                      =  "rgb(47000,47000,47000)";
+"Color:HTMLAttributeName:Markdown"              =  "rgb(24047,38845,62708)";
+"Color:HTMLAttributeValue:Markdown"             =  "rgb(32000,45824,18176)";
+//"Color:HTMLTag:Markdown"                        =  "rgb(34181,36494,62708)";
+"Color:XMLProcessingInstruction:Markdown"       =  "rgb(52428,35980,15420)";

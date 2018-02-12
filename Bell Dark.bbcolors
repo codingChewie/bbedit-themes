@@ -1,0 +1,26 @@
+// By Bryan Bell
+// http://bryanbell.com/
+// 4 Oct 2006
+//
+// Copy to: ~/Library/Application Support/BBColors/
+
+
+"Color:Background"                        =  "rgb(3141,3141,3141)";
+"Color:CTagsIdentifier"                   =  "rgb(39321,0,26214)";
+"Color:ColorAttributesSeparately"         =   1;
+"Color:Comment"                           =  "rgb(23200,31195,50882)";
+"Color:Foreground"                        =  "rgb(52972,52972,52972)";
+"Color:GuideContrast"                     =   2;
+"Color:HTMLAnchor"                        =  "rgb(65535,23595,0)";
+"Color:HTMLAttributeName"                 =  "rgb(25831,30086,36641)";
+"Color:HTMLAttributeValue"                =  "rgb(32950,42330,52554)";
+"Color:HTMLImage"                         =  "rgb(0,30583,30583)";
+"Color:HTMLTag"                           =  "rgb(65535,32896,0)";
+"Color:HighlightInsertionPoint"           =   1;
+"Color:InsertionPointLineHighlightColor"  =  "rgb(9422,9422,9422)";
+"Color:Keywords"                          =  "rgb(65535,32896,0)";
+"Color:PrimaryHighlight"                  =  "rgb(28685,11687,26499)";
+"Color:SecondaryHighlight"                =  "rgb(8353,10773,9093)";
+"Color:String"                            =  "rgb(39321,39321,39321)";
+"Color:UseCustomHighlight"                =   1;
+"Color:XMLProcessingInstruction"          =  "rgb(13107,26214,39321)";
