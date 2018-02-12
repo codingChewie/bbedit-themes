@@ -1,4 +1,4 @@
-# bbedit-theme
+# bbedit-themes
 Collection of BBEdit themes
 
 ## Installation
